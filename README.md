@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name is Victoria, I am a Junior Python Developer | Junior Data Scientist | Frontend Blockchain Engineer
+My name is Victoria, I am a Python Developer and budding Blockchain Engineer
+Python | Blockchain | Javascript | Reactjs | Web3Js | Data Science
 
 - 🔭 I’m currently working on interesting things
 - 🌱 I’m currently learning to better my Frontend development skills
