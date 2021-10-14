@@ -3,7 +3,7 @@
 My name is Victoria, I am a Python Developer and budding Blockchain Engineer
 - Python | Blockchain | Javascript | Reactjs | Web3Js | Data Science
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miield&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iamveektoria&show_icons=true&theme=radical)
 
 - 🔭 I’m currently working on interesting things
 - 🌱 I’m currently learning to better my Frontend development skills
