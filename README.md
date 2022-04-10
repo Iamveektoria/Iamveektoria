@@ -25,7 +25,7 @@ My name is Victoria, I am a junior Python Developer | Blockchain | Javascript | 
 
 
 <p align="center"> I am result-driven and passionate about the intersection between Blockchain and Data science. 
-As well as an advocate for mainstream adoption of Blockchain.  I'am currently a developer advocate for the Polygon Blockchain in Nigeria and a blockchain mentor [blockgames](https://blockgames.gg/) , a blockchain program handled by [Zuriinc](https://zuri.team/) in partnership with [Nestcoin](https://nestcoin.com/).
+As well as an advocate for mainstream adoption of Blockchain.  I'am currently a developer advocate for the Polygon Blockchain in Nigeria and a blockchain mentor [blockgames] (https://blockgames.gg/) , a blockchain program handled by [Zuriteam] (https://zuri.team/) in partnership with [Nestcoin] (https://nestcoin.com/).
 I am constantly striving to learn, grow and use my skills in Python, reactJs and solidity to drive positive changes in the space. I have a good knowledge of frontend.
 In my free time, I contributes to LadiesDoTech || Web3 Ladies, an open-source community of ladies, building and pushing more ladies into the Blockchain space.</p>
 
