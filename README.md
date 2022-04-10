@@ -1,13 +1,13 @@
 
 <h1 align="center">
-### Hi there 👋
+ Hi there 👋
 </h1>
 
 <h2 align="center">
 Glad to see you here!
 </h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iamveektoria&show_icons=true&theme=radical)
+
 
 <h1 align="center">
 My name is Victoria, I am a junior Python Developer | Blockchain | Javascript | Reactjs | Web3Js |
