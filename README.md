@@ -82,8 +82,8 @@ Support me
 - 🔭 I’m currently working on interesting things
 - 🌱 I’m currently learning to better my Frontend development skills
 - 👯 I’m looking to collaborate on amazing projects involving python or blockchain
-- 📫 How to reach me: <a href="https://twitter.com/Iamveektoria"> maths_hanty </a>  
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/victoria-enebeli-78a4841a1/"> Blockchain_hanty</a>
+- 📫 How to reach me: <a href="https://twitter.com/Iamveektoria"> Iamveektoria </a>  
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/victoria-enebeli-78a4841a1/"> Iamveektoria</a>
 - 😄 Pronouns: That Tech Gal
 - ⚡ Fun fact: I am one with Christ, I love God, Research, Travel travel travel 🤗
 - 👨‍💻 All of my projects are available at [https://vick-portfolio.koko-code.tech/]
