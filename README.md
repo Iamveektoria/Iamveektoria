@@ -45,6 +45,7 @@ In my free time, I contributes to LadiesDoTech || Web3 Ladies, an open-source co
 Support me 
 - <a href="https://paystack.com/pay/Iamveektoria">:heart: Sponsor me</a>
 
+## Language and Tools:
 <p align="center">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -60,6 +61,7 @@ Support me
     style="vertical-align:top; margin: 4px">
  
 </p>
+
  <div align="center">
  <img align="center" width=690em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamveektoria&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -79,7 +81,7 @@ Support me
 
 
 
-## Languages and Tools:
+
 
 - 🔭 I’m currently working on interesting things
 - 🌱 I’m currently learning to better my Frontend development skills
