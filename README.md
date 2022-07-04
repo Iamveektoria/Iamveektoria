@@ -10,7 +10,7 @@ Glad to see you here!
 
 
 <h1 align="center">
-My name is Victoria, I am a junior Python Developer | Blockchain | Javascript | Reactjs | Web3Js |
+My name is Victoria, I am a Frontend Developer | Blockchain Developer |
 </h1>
 
 <p align=center><img width="315" alt="cool" src="https://user-images.githubusercontent.com/86707012/162616970-859e7447-87b4-4feb-90b5-619e5dd5351b.png">
